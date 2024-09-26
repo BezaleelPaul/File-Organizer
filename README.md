@@ -11,7 +11,7 @@ A simple and efficient file organization tool that sorts files based on their ex
 
 ## Installation
 
-1. Download the latest executable from the [bin folder](https://github.com/BezaleelPaul/File-Organizer/commit/6aa1a8390fafe9b7938ecb0d8430371614af1c2b)
+1. Download the latest executable from the [dist folder]
 2. Run the executable to start the application.
 
 ## Usage
