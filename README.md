@@ -16,7 +16,8 @@ A simple and efficient file organization tool that sorts files based on their ex
 
 ## Usage
 
-Follow the GUI prompts to organize your files. You can customize file types as needed.
+Follow the GUI prompts to organize your files. You can customize file types as needed.![image](https://github.com/user-attachments/assets/7767f534-4a1d-4ebf-90e0-03939412c965)
+
 
 ## Requirements
 
